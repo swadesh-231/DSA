@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysBasic;
 
 public class SumOfEvenAndOdd {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysBasic;
 
 public class SumArrays {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysBasic;
 
 public class SumOfPairs {
     public static void main(String[] args) {
